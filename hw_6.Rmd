@@ -1,6 +1,6 @@
 ---
 title: "Homework_6"
-author: "Erik Carlson"
+author: "Emmanuel Mendez"
 date: "11/8/2020"
 output: html_document
 ---
